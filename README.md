@@ -14,42 +14,13 @@ Me interesa resolver problemas relacionados con análisis financiero, optimizaci
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-# Análisis de Comportamiento de Clientes en E-commerce – Python & EDA
+## 📊 Proyectos Destacados
 
-Comprender el comportamiento de compra de los clientes en una plataforma de e-commerce (Instacart) para identificar patrones de consumo, recurrencia de pedidos y tendencias en la demanda de productos.
+🔹 **Análisis de comportamiento de clientes en E-commerce**  
+Exploración de datos de Instacart para identificar patrones de compra y recurrencia de pedidos.
 
-Realicé un Análisis Exploratorio de Datos (EDA) para estudiar los patrones de compra de los usuarios. Analicé la frecuencia de pedidos, productos más populares y horarios de compra para identificar tendencias del comportamiento del consumidor.
+🔹 **Análisis de ingresos en planes prepago de telecomunicaciones**  
+Comparación estadística entre planes para identificar cuál genera mayor ingreso.
 
-## 🛠️ Herramientas y tecnologías utilizadas
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-
-  # Análisis de Ingresos por Planes Prepago – Análisis Estadístico con Python
-
-Una empresa de telecomunicaciones necesita determinar cuál de sus planes prepago genera mayor ingreso para orientar decisiones estratégicas y optimizar su portafolio de servicios.
-
-Analicé el comportamiento de uso de los clientes (llamadas, mensajes y consumo de datos) para estimar el ingreso generado por cada plan. Apliqué análisis estadístico y pruebas de hipótesis para comparar el rendimiento financiero de los planes.
-
-## 🛠️ Herramientas y tecnologías utilizadas
-- Python
-- Pandas
-- SciPy
-- Análisis estadístico
-- Visualización de datos
-
-  # Factores de Éxito en Ventas de Videojuegos – Análisis Exploratorio de Datos
-
-Identificar los factores que influyen en el éxito comercial de los videojuegos para apoyar decisiones de marketing y lanzamiento de nuevos productos.
-
-Analicé datos históricos de ventas por plataforma, género, región y calificaciones de usuarios y críticos. Realicé análisis exploratorio y visualizaciones para identificar tendencias del mercado y características asociadas a videojuegos exitosos.
-
-## 🛠️ Herramientas y tecnologías utilizadas
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Análisis Exploratorio de Datos (EDA)
+🔹 **Factores de éxito en ventas de videojuegos**  
+Análisis de tendencias de mercado y variables que influyen en el éxito comercial de videojuegos.
